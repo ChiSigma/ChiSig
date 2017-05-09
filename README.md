@@ -6,7 +6,7 @@ Code for the homepage of Chi Sigma -> info@chisigma.co
 
 
 
-<img src="http://nudjs.me/images/chisig.png" alt="Drawing" width=321 height=363/>
+<img src="https://chisigma.co/cs/img/crest.png" alt="Drawing" width=321 height=363/>
 
 
 
