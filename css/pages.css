@@ -176,6 +176,17 @@ footer {
     background-position: center;
     background-position-y: 0px;
 }
+.bianca {
+    background-image: url("../img/profiles/dixon-b.png");
+    background-position: center;
+    background-size: contain;
+    background-position-y: 0px;
+}
+.sam {
+    background-image: url("../img/profiles/borri-s.png");
+    background-position: center;
+    background-size: contain;
+}
 .zach {
     background-image: url("../img/profiles/lowen-z2.jpg");
     background-position: center;
@@ -325,6 +336,13 @@ footer {
         font-size: 6em;
         line-height: 1em;
 
+    }
+
+    .sam .mdl-card__title-text {
+        padding-top: 500px;
+    }
+    .bianca .mdl-card__title-text {
+        padding-top: 400px;
     }
 }
 
