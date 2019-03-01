@@ -1,4 +1,4 @@
-/* 
+/*
 
 Includes the custom CSS styling for the website's members, events, and about pages.
 
@@ -170,10 +170,13 @@ footer {
 .alex {
     background-image: url("../img/profiles/melagrano-a.jpg")  ;
     background-position: center;
+    background-size: contain;
+    background-position-y: 0px;
 }
 .jon {
     background-image: url("../img/profiles/northcott-j.jpg");
     background-position: center;
+    background-size: contain;
     background-position-y: 0px;
 }
 .bianca {
@@ -188,13 +191,16 @@ footer {
     background-size: contain;
 }
 .zach {
-    background-image: url("../img/profiles/lowen-z2.jpg");
+    background-image: url("../img/profiles/lowen-z.jpg");
     background-position: center;
     background-size: 85%;
+    background-position-y: 0px;
 }
 .rag {
     background-image: url("../img/profiles/narayan-r.jpg")  ;
     background-position: center;
+    background-size: 85%;
+    background-position-y: 0px;
 }
 .ty {
     background-image: url("../img/profiles/coghlan-t.jpg")  ;
@@ -204,6 +210,8 @@ footer {
 .dan {
     background-image: url("../img/profiles/litchmore-d.jpg");
     background-position: center;
+    background-size: contain;
+    background-position-y: 0px;
 }
 .eli {
     background-image: url("../img/profiles/foreman-e.jpg");
@@ -224,7 +232,7 @@ footer {
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
-  
+
     -webkit-flex-flow: row wrap;
     justify-content: space-around;
 }
