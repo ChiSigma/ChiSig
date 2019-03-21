@@ -190,6 +190,11 @@ footer {
     background-position: center;
     background-size: contain;
 }
+.olivia {
+    background-image: url("../img/profiles/tedesco-o.png");
+    background-position: center;
+    background-size: contain;
+}
 .zach {
     background-image: url("../img/profiles/lowen-z.jpg");
     background-position: center;
